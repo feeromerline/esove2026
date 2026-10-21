@@ -1,4 +1,4 @@
-# ESOVE 2026 poster extras
+# ESOVE 2026 poster extra information
 
 The companion page to the ESOVE 2026 poster
 "Mosquito population mixing shapes Rift Valley fever transmission across a wildlife–livestock interface".
